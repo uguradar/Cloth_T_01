@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cloth_T_01", "Cloth_T_01\Cloth_T_01.csproj", "{A3A4921B-11E0-4D53-893A-809C5D42AFC4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Cloth_Setup", "Cloth_Setup\Cloth_Setup.vdproj", "{1BA1C6A0-A13C-4128-8277-E2427493D2BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3A4921B-11E0-4D53-893A-809C5D42AFC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3A4921B-11E0-4D53-893A-809C5D42AFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3A4921B-11E0-4D53-893A-809C5D42AFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3A4921B-11E0-4D53-893A-809C5D42AFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BA1C6A0-A13C-4128-8277-E2427493D2BC}.Debug|Any CPU.ActiveCfg = Debug
+		{1BA1C6A0-A13C-4128-8277-E2427493D2BC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BBBBC12-C23C-442A-A450-BFDE0BB89D1C}
+	EndGlobalSection
+EndGlobal
